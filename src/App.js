@@ -27,7 +27,6 @@ const App = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // Aquí se procesaría el formulario
   };
 
   const validateField = (name, value) => {
